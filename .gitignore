@@ -1,0 +1,8 @@
+.vs/
+SpikehatStudios/bin/
+SpikehatStudios/obj/
+*.csproj
+*.sln
+.DS_Store
+node_modules/
+.env
